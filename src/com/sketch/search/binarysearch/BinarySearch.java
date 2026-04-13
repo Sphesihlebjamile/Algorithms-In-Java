@@ -1,4 +1,4 @@
-package com.sketch.search;
+package com.sketch.search.binarysearch;
 
 import java.util.Arrays;
 

@@ -1,6 +1,6 @@
 package com.sketch;
 
-import com.sketch.search.*;
+import com.sketch.search.binarysearch.BinarySearch;
 
 public class Main {
     public static void main(String[] args){
