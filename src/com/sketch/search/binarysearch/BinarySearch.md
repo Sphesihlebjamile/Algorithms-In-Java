@@ -5,6 +5,8 @@ find a target value or optimal answer in logarithmic time **O(log N**.
 
 ![img.png](img.png)
 
+Implementation: [BinarySearch.java](./BinarySearch.java)
+
 The Binary Search algorithm can only be applied to data-structures that:
 - are sorted,
 - and access to any element of the data-structure takes constant time **O(1)**.
