@@ -1,5 +1,7 @@
 package com.sketch.search;
 
+import java.util.Arrays;
+
 public class BinarySearch {
     public static int search(int[] sortedNumbers, int numberToFind){
         int low = 0;
@@ -20,5 +22,9 @@ public class BinarySearch {
         }
 
         return -1;
+    }
+
+    public static int searchDefault(int[] sortedNumbers, int numberToFind){
+        return Arrays.binarySearch(sortedNumbers, numberToFind);
     }
 }
