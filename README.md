@@ -8,6 +8,7 @@ This repository is one where we document the implementations and usage of differ
 - [Sort Algorithms](./src/com/sketch/sort/)
   - [Quick Sort](./src/com/sketch/sort/quicksort/QuickSort.md)
   - [Selection Sort](./src/com/sketch/sort/selectionsort/SelectionSort.md)
+  - [Insertion Sort](./src/com/sketch/sort/insertionsort/InsertionSort.md)
 
 ## Contributions
 This repository is open-source and available to everyone to wants to learn DSA or wants to contibute to documenting other algorithms.
